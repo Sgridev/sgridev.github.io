@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-![_config.yml]({{ site.baseurl }}/images/andreagrisafi.jpg)
+![_config.yml]({{ site.baseurl }}/assets/img/logo.png)
 
 Eccomi qui, disegnato gentilmente da [Aryanel](https://twitter.com/itsaryanel).  
 Mi presento: sono Andrea Grisafi, ho 22 anni e vivo in una città in periferia di Milano.  
