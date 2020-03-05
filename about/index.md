@@ -16,4 +16,4 @@ Qui troverai pensieri e guide in ambito .NET, oltre che riflessioni sul mondo de
 
 ### Contact me
 
-[grisafi4@gmail.com](mailto:grisafi4@gmail.com)
+[grisafi3@gmail.com](mailto:grisafi3@gmail.com)
