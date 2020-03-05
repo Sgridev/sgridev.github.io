@@ -37,13 +37,14 @@ disqus_shortname:   andreagrisafi
   #verify:
   #ad-client:
   #ad-slot:
+twitter:            sgri_dev
+github-url:         sgridev
+linkedin:          andreagrisafi
+youtube-channel:    UCA5UQ85gBvVdQY2-LSWAOyA
 #bing-verify:
 #email:
-twitter:            sgri_dev
 #facebook:           username
-github-url:         sgridev
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          andreagrisafi
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -54,7 +55,6 @@ linkedin:          andreagrisafi
 #steam:              username
 #dribbble:          username
 #youtube:           username
-youtube-channel:    UCA5UQ85gBvVdQY2-LSWAOyA
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
