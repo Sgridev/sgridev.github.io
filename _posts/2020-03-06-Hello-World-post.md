@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World!"
-date: 2020-03-04
+date: 2020-03-06
 excerpt: "Una nuova avventura ha inizio."
 tags: [Hello World, Andrea Grisafi, .NET, C#]
 feature: http://i.imgur.com/Ds6S7lJ.png
