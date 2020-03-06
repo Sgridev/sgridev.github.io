@@ -20,4 +20,4 @@ Puoi trovarmi su [Twitter](https://twitter.com/sgri_dev), [Linkedin](https://www
 
 ### Contact me
 
-Per collaborazioni e proposte professionali contattami via mail: [grisafi3@gmail.com](mailto:grisafi3@gmail.com)
+Per collaborazioni e proposte professionali puoi contattarmi via mail: [grisafi3@gmail.com](mailto:grisafi3@gmail.com)
