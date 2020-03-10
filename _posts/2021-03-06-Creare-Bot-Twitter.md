@@ -14,7 +14,7 @@ E quale miglior idea se non un [bot di Twitter](https://twitter.com/sarabellxmbo
 Quindi, buttiamoci subito all'azione!
 
 # 1) Ottenere un account Twitter developer
-![_config.yml]({{ site.baseurl }}/assets/img/twitterpost/twitter1.png)  
+![_config.yml]({{ site.baseurl }}/assets/img/twitterPost/twitter1.png)  
 Per prima cosa dobbiamo richiedere ed ottenere un account Twitter Developer per poter comunicare con l'[API](https://en.wikipedia.org/wiki/Application_programming_interface) di Twitter.  
 Se non l'avete ancora fatto o non sapete come farlo potete seguire [una guida sul blog fatta a riguardo](https://andreagrisafi.it/CreareAccountTwitterDeveloper).
   
