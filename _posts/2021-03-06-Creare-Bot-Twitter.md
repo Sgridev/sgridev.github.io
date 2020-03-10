@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Come creare un bot di Twitter in C#"
-date: 2020-03-06
+title: "Creare un bot di Twitter in C#"
+date: 2021-03-06
 excerpt: "Come utilizzare le API Twitter per creare un bot"
 tags: [Twitter, Twitter Bot, Bot, Andrea Grisafi, .NET, C#]
 feature: https://images8.alphacoders.com/473/473471.jpg

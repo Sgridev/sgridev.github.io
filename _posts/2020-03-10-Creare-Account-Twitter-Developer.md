@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Come creare un account Twitter Developer"
-date: 2020-03-06
+title: "Creare un account Twitter Developer"
+date: 2020-03-10
 excerpt: "Creare un account Twitter Developer ed ottenere i token di accesso"
 tags: [Twitter, Twitter Developer, Account Developer Twitter, Andrea Grisafi]
 feature: https://media.wired.com/photos/5a55b72db1cfb87f3206aa5b/master/w_582,c_limit/Twitter-Hole-featured.jpg
