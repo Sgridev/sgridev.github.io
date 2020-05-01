@@ -7,15 +7,15 @@ tags: [Twitter, Twitter Bot, Bot, Andrea Grisafi, .NET, C#]
 feature: https://media.wired.com/photos/5a55b72db1cfb87f3206aa5b/master/w_582,c_limit/Twitter-Hole-featured.jpg
 comments: false
 ---
-Ogni giorno, tutti noi ripetiamo le stesse azioni quasi in modo automatico: si pensi ad esempio quando ci si lava i denti, la faccia o si mangia.
+Ogni giorno, tutti noi ripetiamo le stesse azioni quasi in modo automatico: si pensi ad esempio quando ci si lava i denti o si mangia.  
 Ciò che ci sfugge è tutto il tempo perso nel farlo.  
-Lavandoci i denti per 5 minuti al giorno, alla fine dell'anno avremmo perso più di 30 ore del nostro tempo.  
+Lavandoci i denti per 5 minuti al giorno, alla fine dell'anno avremo perso più di 30 ore del nostro tempo.  
 Fortunatamente, nel mondo informatico molte azioni sono programmabili e di conseguenza automatizzabili.  
 Ad esempio: nella noia di un giorno estivo dello scorso anno, decisi di creare un account di Twitter con il solo scopo di ricordare alla mia ragazza quanto fosse bella.  
 Non fidandomi della scarseggiante costanza che possiedo, scartai subito l'opzione di fare i post a mano ogni giorno.  
-Dopo un averci riflettuto su, decisi di creare un piccolo programma in C# che comunicasse con le [API](https://en.wikipedia.org/wiki/Application_programming_interface) di Twitter per creare un nuovo post.
+Dopo un averci riflettuto su, decisi di creare un piccolo programma in C# che comunicasse con le [API](https://en.wikipedia.org/wiki/Application_programming_interface) di Twitter per creare un nuovo post.  
 Per far avviare l'applicazione ogni 24 ore scelsi di utilizzare il Task Scheduler di Windows, hostato su un'istanza EC2 gratuita fornita da AWS.  
-Il risultato fu [questo](https://twitter.com/sarabellxmbot).
+Il risultato fu [questo](https://twitter.com/sarabellxmbot).  
 Ora basta con le premesse, mettiamoci all'opera.
 
 
@@ -27,3 +27,14 @@ Per prima cosa dobbiamo richiedere ed ottenere un account Twitter Developer per 
 Per andare direttamente alla pagina di richiesta segui questo [link](https://developer.twitter.com/en/apply-for-access).  
 Nel mio caso l'accesso è stato ottenuto in meno di 15 minuti, ma Twitter specifica che il processo potrebbe richiedere anche diverse ore.  
 
+# 2) Creare un nuovo progetto ed installare Tweetsharp
+![_config.yml]({{ site.baseurl }}/assets/img/twitterPost/twitter2.png)  
+Creiamo un progetto console (.NET Framework o .NET Core) da [Visual Studio](https://visualstudio.microsoft.com/it/downloads/) e diamogli il nome che preferiamo.  
+Fortunatamente, alcuni programmatori prima di noi si sono presi la briga di creare interfacce tra l'API di Twitter e il nostro programma, per semplificare l'utilizzo dell'API stessa.  
+Una di queste è [TweetSharp](https://github.com/shugonta/tweetsharp).
+Installiamolo cliccando nel menù Progetto->Gestisci Pacchetti Nuget, cerchiamo "TweetSharp" e clicchiamo su installa.  
+Il pacchetto nuget scaricato installerà tutte le referenze necessarie per utilizzare Tweetsharp all'interno del nostro progetto.
+Ora possiamo aggiungere la direttiva in cima alla nostra classe Program.cs.  
+{% highlight csharp %}
+using TweetSharp;
+{% endhighlight %}
