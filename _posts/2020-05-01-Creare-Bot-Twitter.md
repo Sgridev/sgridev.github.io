@@ -43,10 +43,10 @@ using TweetSharp;
 Torniamo nella nostra dashboard di Twitter e copiamo le chiavi e i token, o generiamole se non sono ancora state create.  
 Dichiariamole all'interno del nostro programma.
 {% highlight csharp %}
-        private static string customer_key = ConfigurationManager.AppSettings["customer_key"];
-        private static string customer_key_secret = ConfigurationManager.AppSettings["customer_key_secret"];
-        private static string access_token = ConfigurationManager.AppSettings["access_token"];
-        private static string access_token_secret = ConfigurationManager.AppSettings["access_token_secret"];
+private static string customer_key = ConfigurationManager.AppSettings["customer_key"];
+private static string customer_key_secret = ConfigurationManager.AppSettings["customer_key_secret"];
+private static string access_token = ConfigurationManager.AppSettings["access_token"];
+private static string access_token_secret = ConfigurationManager.AppSettings["access_token_secret"];
 {% endhighlight %}  
 Il mio consiglio è quello di inserire le chiavi all'interno dell'App.config, in modo da poterle nascondere dal codice e soprattutto modificarle senza il bisogno di ricompilare la nostra applicazione.  
 Ora creiamo un TwitterService passandogli tutte le nostre chiavi:  
