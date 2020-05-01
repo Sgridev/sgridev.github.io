@@ -9,7 +9,7 @@ comments: false
 ---
 Ogni giorno, tutti noi ripetiamo le stesse azioni quasi in modo automatico: si pensi ad esempio quando ci si lava i denti o si mangia.  
 Ciò che ci sfugge è tutto il tempo perso nel farlo.  
-Lavandoci i denti per 5 minuti al giorno, alla fine dell'anno avremo perso più di 30 ore del nostro tempo.  
+Lavandoci i denti per 5 minuti al giorno, alla fine dell'anno avremo occupato più di 30 ore del nostro tempo.  
 Fortunatamente, nel mondo informatico molte azioni sono programmabili e di conseguenza automatizzabili.  
 Ad esempio: nella noia di un giorno estivo dello scorso anno, decisi di creare un account di Twitter con il solo scopo di ricordare alla mia ragazza quanto fosse bella.  
 Non fidandomi della scarseggiante costanza che possiedo, scartai subito l'opzione di fare i post a mano ogni giorno.  
