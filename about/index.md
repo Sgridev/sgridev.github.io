@@ -7,10 +7,11 @@ comments: false
 ---
 ![_config.yml]({{ site.baseurl }}/assets/img/logo.png)  
 
-Ciao! Sono Andrea Grisafi, benvenuto sul mio sito.  
-Sono molto affascinato dall'ecosistema Microsoft, sono certificato [MTA](https://www.youracclaim.com/badges/3dfd2f75-3e12-423b-afa8-dbb8d351bdb4/linked_in_profile) e continuerò il percorso di certificazione con l'obiettivo di ottenere un giorno il titolo di [MVP](https://mvp.microsoft.com/it-IT/pages/what-it-takes-to-be-an-mvp).  
+Ciao a tutti! Sono Andrea Grisafi, sviluppatore .NET di Milano.  
+Sono molto affascinato dall'ecosistema Microsoft, dalle sue architetture e i suoi linguaggi.  
+Sono certificato [MTA](https://www.youracclaim.com/badges/3dfd2f75-3e12-423b-afa8-dbb8d351bdb4/linked_in_profile).  
 Nel tempo libero studio scacchi e finanza personale.  
-Qui troverai pensieri e guide in ambito .NET, oltre che riflessioni sul mondo dev italiano.
+Qui troverai pensieri, guide in ambito .NET e riflessioni sul mondo dev italiano.
 
 
 ### More Information
