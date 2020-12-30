@@ -12,5 +12,8 @@ project: true
 Landing page e blog statico per il circolo scacchistico [Caturnalia.it](https://Caturnalia.it).
 ![_config.yml]({{ site.baseurl }}/assets/img/caturnalia/caturnalia1.jpg)  
 
-Completamente responsive, da la possibilità di consultare le partite giocate da ogni giocatore da qualsiasi dispositivo.  
+Completamente responsive, dà la possibilità di consultare le notizie e le classifiche dei tornei.   
 ![_config.yml]({{ site.baseurl }}/assets/img/caturnalia/caturnalia2.jpg)  
+
+È inoltre possibile riprodurre tutte le partite giocate da ogni giocatore, da qualsiasi dispositivo.  
+![_config.yml]({{ site.baseurl }}/assets/img/caturnalia/caturnalia3.jpg)  
