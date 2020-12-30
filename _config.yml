@@ -1,13 +1,13 @@
 # Site
 title:              Andrea Grisafi
-bio:                '.NET Dev - Milano'
-description:        "Sviluppatore software specializzato in architetture .NET - Milano."
+bio:                'Fullstack .NET Developer - Milano'
+description:        "Sviluppatore fullstack .NET - Milano."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder2.jpg'
 tiled_bg:           false 
-locale:             en_US
+locale:             it_IT
 url:                https://andreagrisafi.it
 
 
@@ -30,38 +30,10 @@ sass:
 disqus_shortname:   andreagrisafi
 
 # Social
-# if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
 twitter:            sgri_dev
 github-url:         sgridev
 linkedin:          andreagrisafi
-youtube-channel:    UCA5UQ85gBvVdQY2-LSWAOyA
-#bing-verify:
-#email:
-#facebook:           username
-#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
+#youtube-channel:    UCA5UQ85gBvVdQY2-LSWAOyA
 
 # Gems
 gems:
@@ -70,8 +42,8 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
 
-jekyll-mentions:
-    base_url: https://github.com
+# jekyll-mentions:
+#     base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
