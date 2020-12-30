@@ -4,7 +4,7 @@ title: "Caturnalia.it"
 date: 2020-12-30
 excerpt: "Landing page e blog statico per il circolo scacchistico Caturnalia"
 tags: [Progetto, Andrea Grisafi]
-feature: /assets/img/caturnalia/logo.png
+feature: /assets/img/caturnalia/logo1.png
 comments: false
 project: true
 ---
