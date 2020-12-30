@@ -10,4 +10,7 @@ project: true
 ---
 # Caturnalia.it
 Landing page e blog statico per il circolo scacchistico [Caturnalia.it](https://Caturnalia.it).
-![_config.yml]({{ site.baseurl }}/assets/img/caturnalia/home.png)  
+![_config.yml]({{ site.baseurl }}/assets/img/caturnalia/caturnalia1.jpg)  
+
+Completamente responsive, da la possibilità di consultare le partite giocate da ogni giocatore da qualsiasi dispositivo.  
+![_config.yml]({{ site.baseurl }}/assets/img/caturnalia/caturnalia2.jpg)  
