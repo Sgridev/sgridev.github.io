@@ -4,7 +4,7 @@ title: "Hello World!"
 date: 2020-03-06
 excerpt: "Una nuova avventura ha inizio."
 tags: [Hello World, Andrea Grisafi, .NET, C#, Sviluppo Software]
-feature: https://rehansaeed.com/images/hero/MVVM-1366x768.png
+feature: https://lmichelin.fr/content/images/2019/05/5c1bb7dd5e7cc9678fcdc39f_Hello-World-Header.png
 comments: false
 ---
 
