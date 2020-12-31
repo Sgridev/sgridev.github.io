@@ -7,7 +7,7 @@ tags: [Twitter, Twitter Bot, Bot, Andrea Grisafi, .NET, C#]
 feature: https://media.wired.com/photos/5a55b72db1cfb87f3206aa5b/master/w_582,c_limit/Twitter-Hole-featured.jpg
 comments: false
 ---
-Ogni giorno, tutti noi ripetiamo le stesse azioni quasi in modo automatico: si pensi ad esempio quando ci si lava i denti o si mangia.  
+Tutti i giorni ripetiamo le stesse azioni quasi in modo automatico: ad esempio quando ci si laviamo i denti o mangiamo.  
 Ciò che ci sfugge è tutto il tempo perso nel farlo.  
 Lavandoci i denti per 5 minuti al giorno, alla fine dell'anno avremo occupato più di 30 ore del nostro tempo.  
 Fortunatamente, nel mondo informatico molte azioni sono programmabili e di conseguenza automatizzabili.  
