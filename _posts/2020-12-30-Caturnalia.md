@@ -17,3 +17,5 @@ Completamente responsive, dà la possibilità di consultare le notizie e le clas
 
 È inoltre possibile riprodurre tutte le partite giocate da ogni giocatore, da qualsiasi dispositivo.  
 ![_config.yml]({{ site.baseurl }}/assets/img/caturnalia/caturnalia3.jpg)  
+
+Tecnologie utilizzate: Jekyll, Ruby, HTML5, CSS, SCSS, Bootstrap, Javascript, jQuery
