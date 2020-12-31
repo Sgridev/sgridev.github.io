@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Su di me
 tags: [about, Andrea Grisafi]
 date: 2020-03-06
 comments: false
