@@ -9,7 +9,7 @@ comments: false
 project: true
 ---
 # Chessboard Vision
-Chessboard Vision è un'app che ti aiuta a sviluppare abilità correlate agli scacchi alla cieca.  
+[Chessboard Vision](https://play.google.com/store/apps/details?id=com.andreagrisafi.chessboardvision) è un'app che ti aiuta a sviluppare abilità correlate agli scacchi alla cieca.  
 ![_config.yml]({{ site.baseurl }}/assets/img/chessboardvision/home.png)  
 
 L'obiettivo del gioco è quello di immaginare la scacchiera nella tua mente e indovinare il colore della casella richiesta.  
