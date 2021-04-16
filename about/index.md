@@ -5,7 +5,7 @@ tags: [about, Andrea Grisafi]
 date: 2020-03-06
 comments: false
 ---
-![_config.yml]({{ site.baseurl }}/assets/img/logo.png)  
+![_config.yml]({{ site.baseurl }}/assets/img/logo.jpg)  
 
 Ciao a tutti! Sono Andrea Grisafi, sviluppatore fullstack .NET di Milano.  
 Sono affascinato dall'ecosistema Microsoft, partendo da C# e .NET Core, fino a Xamarin Forms e XAML.  

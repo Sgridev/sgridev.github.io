@@ -4,7 +4,7 @@ bio:                'Fullstack .NET Developer - Milano'
 description:        "Sviluppatore fullstack .NET - Milano."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/logo.jpg'
 background:         'assets/img/placeholder2.jpg'
 tiled_bg:           false 
 locale:             it_IT
