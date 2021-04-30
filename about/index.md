@@ -16,5 +16,5 @@ Fin da piccolo, sono stato un grande appassionato dell’ecosistema Microsoft e 
 Possiedo diversi anni di esperienza specializzata nello sviluppo backend, frontend, desktop e mobile; e ricopro la posizione di Fullstack .NET Developer.  
 Sono fondatore della mia WebAgency: [Everleaf](https://everleaf.it) a cui dedico dedico attenzione durante il tempo libero.  
 In questo sito troverai pensieri, guide e riflessioni sul mondo dev italiano.  
-Puoi trovarmi su [Twitter](https://twitter.com/sgri_97), [Linkedin](https://www.linkedin.com/in/andreagrisafi/) e [Github](https://github.com/sgridev).  
+Puoi trovarmi su [Twitter](https://twitter.com/sgri97), [Linkedin](https://www.linkedin.com/in/andreagrisafi/) e [Github](https://github.com/sgridev).  
 Per collaborazioni e proposte professionali puoi contattarmi via mail: [grisafi4@gmail.com](mailto:grisafi4@gmail.com).  
